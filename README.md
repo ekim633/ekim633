@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Eric! <a href="https://www.linkedin.com/in/joshmadakor/">An emerging Cybersecurity Professional</a>
+  
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Uploading Projects at the moment</b>
+  - [Coming Soon](link)
+
+<h2>📺 YouTube Videos</h2>
+
+- [Coming Soon](link)
 
 <!--
 **ekim633/ekim633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
