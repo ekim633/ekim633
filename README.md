@@ -4,6 +4,7 @@
 
 - <b>Uploading Projects at the moment</b>
   - [Undergrad Research Work][(link](https://github.com/ekim633/gmu-ltesniffer))
+  - [Capstone Senior Project][(link](https://github.com/GMU-CYSE-SeniorDesign/2025-group8))
 
 
 <!--
