@@ -5,9 +5,6 @@
 - <b>Uploading Projects at the moment</b>
   - [Undergrad Research Work][(link](https://github.com/ekim633/gmu-ltesniffer))
 
-<h2>📺 YouTube Videos</h2>
-
-- [Coming Soon](link)
 
 <!--
 **ekim633/ekim633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
