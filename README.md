@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <a href="https://www.linkedin.com/in/joshmadakor/">An emerging Cybersecurity Professional</a>
+<h1>Hi, I'm Eric!
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
