@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Uploading Projects at the moment</b>
-  - Undergrad Research Work:[link](https://github.com/ekim633/gmu-ltesniffer)
+- <b>Research Work</b>
+  - Undergraduate Research Assistant Work:[link](https://github.com/ekim633/gmu-ltesniffer)
  
 
 <h2> Programming Projects (C++/C) </h2>
