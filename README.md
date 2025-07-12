@@ -3,14 +3,14 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Research Work</b>
-  - Undergraduate Research Assistant Work:[link](https://github.com/ekim633/gmu-ltesniffer)
- 
+  - Undergraduate Research Assistant Work:  [link](https://github.com/ekim633/gmu-ltesniffer)
+  - Capstone CGI Research Project (1st Place): [link](https://github.com/ekim633/CGI-Capstone-Project)
 
 <h2> Programming Projects (C++/C) </h2>
 
 - <b>Game Development Projects without using Engine </b>
-  - Survival:[link](https://github.com/ekim633/Survival)
-  - Musik:[link](https://github.com/ekim633/Muzik)
+  - Survival:  [link](https://github.com/ekim633/Survival)
+  - Musik:  [link](https://github.com/ekim633/Muzik)
 <!--
 **ekim633/ekim633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
