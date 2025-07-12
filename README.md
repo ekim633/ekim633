@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric!
   
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Research Work</b>
   - Undergraduate Research Assistant Work:  [link](https://github.com/ekim633/gmu-ltesniffer)
